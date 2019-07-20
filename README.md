@@ -16,7 +16,4 @@ PHP Script ที่จะเช็คเลขอ้างอิงของ Tr
 # Credits
 1. [likecyber/php-truewallet-class](https://github.com/likecyber/php-truewallet-class)
 2. [franceja/php-truewallet-class-gui/index.php](https://github.com/franceja/php-truewallet-class-gui/blob/master/index.php)
-# Donate
-Feel free to donate me via
-###### [Paypal (paypal.me/MrTheBank)](https://www.paypal.me/MrTheBank)
-###### or [PromptPay (092-884-3544)](https://cdn.discordapp.com/attachments/504992078598635520/560087939560767508/unknown.png)
+
