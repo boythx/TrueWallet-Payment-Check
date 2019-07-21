@@ -15,5 +15,4 @@ PHP Script ที่จะเช็คเลขอ้างอิงของ Tr
 5. Done.
 # Credits
 1. [likecyber/php-truewallet-class](https://github.com/likecyber/php-truewallet-class)
-2. [franceja/php-truewallet-class-gui/index.php](https://github.com/franceja/php-truewallet-class-gui/blob/master/index.php)
 
