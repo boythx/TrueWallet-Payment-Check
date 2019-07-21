@@ -10,7 +10,7 @@ PHP Script ที่จะเช็คเลขอ้างอิงของ Tr
 # How to install
 1. Import "tw_transactions.sql" into your MySQL.
 2. Drag all files to directory you would like.
-3. Run "inc/gettoken.php" to get TrueWallet reference.
+3. Run "inc/tw_otp.php" to get TrueWallet reference.
 4. Setting your config in "inc/config.php"
 5. Done.
 # Credits
